@@ -23,7 +23,7 @@ while True:
     #
     time.sleep(15)
 
-
+# placeholder: threads
 
 # if "__main__" == __name__:
 #     render()
