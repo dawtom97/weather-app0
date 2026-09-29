@@ -12,16 +12,16 @@ create_weather_table()
 x = get_weather_records()
 print(x)
 
-#while True:
+while True:
     # #1. Pobranie danych pogodowych
-    # weather = get_weather()
+    weather = get_weather()
     # #2. Wrzucenie danych do serwisu files - funkcji create_excel
     # # [weather] w liście bo pandas do DF oczekuje listy
     # create_excel([weather])
     # save_weather_record(weather)
     # print("Pobieram dane pogodowe")
     #
-    # time.sleep(15)
+    time.sleep(15)
 
 
 
